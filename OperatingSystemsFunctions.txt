@@ -8,3 +8,7 @@ The majority of windows programs come with the ability to install, as well as un
 Programs can also be easily managed by the "Task Manager", where you see detailed information about what is running on the computer.
 The task manager can also be used to force close programs, and even allocate different resources to different programs.
 
+The windows 10 GUI is easy to customise and use.
+You can alter the taskbar and pin or unpin favorite programs/files for easy access.
+The desktop itself is easy to alter and add or remove shortcuts to files and programs. 
+I find it quite easy to navigate through all of the different windows that windows 10 offers. 
