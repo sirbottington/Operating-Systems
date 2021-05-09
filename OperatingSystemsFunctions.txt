@@ -1,0 +1,4 @@
+Windows OS Security is among the best and worst security when it comes to user friendly security.
+Because of the nature of programs for windows, it can be very easy to get a virus when downloading files.
+While there is a built in firewall and virus scanning, it often has to be a bit overzealous when looking at unknown files.
+This can lead to frustration as perfectly safe files get flagged for quarentine by the security system. 
