@@ -1,4 +1,10 @@
-Windows OS Security is among the best and worst security when it comes to user friendly security.
+Windows 10 security is among the best and worst when it comes to user friendly security.
 Because of the nature of programs for windows, it can be very easy to get a virus when downloading files.
 While there is a built in firewall and virus scanning, it often has to be a bit overzealous when looking at unknown files.
 This can lead to frustration as perfectly safe files get flagged for quarentine by the security system. 
+
+Managing programs on Windows 10 is quite easy. 
+The majority of windows programs come with the ability to install, as well as uninstall using the "Add of Remove Programs" under "Apps and Features".
+Programs can also be easily managed by the "Task Manager", where you see detailed information about what is running on the computer.
+The task manager can also be used to force close programs, and even allocate different resources to different programs.
+
